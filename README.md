@@ -37,4 +37,4 @@ Please run `F1_score.ipynb`, you may need to change the image path. it will outp
 
 ### References:
 
-This code is inspired by gihub website: https://github.com/DIUx-xView/xView2_first_place
+This code is inspired by gihub website: https://github.com/DIUx-xView/xView2_first_place (MIT License)
